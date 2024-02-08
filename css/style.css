@@ -1,0 +1,15 @@
+* {
+    margin-top: 1em;
+    margin-left: 1em;
+}
+
+div#noppa {
+    height: 300px;
+    width: 100%;
+    display: flex;
+}
+
+div#noppaTeksti {
+    height: 50px;
+    font-size: xx-large;
+}
